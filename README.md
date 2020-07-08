@@ -36,6 +36,8 @@ There are three folders:
    - countries.csv: User's country residence information
 3. Presentation
    - ab_data_presentation.slides.html: Slideshow providing insights on the results of A/B testing
+   - presentation.gif - Preview of the presentation
+   ![Presentation](Presentation/presentation.gif)
 
 # Dataset Overview
 
